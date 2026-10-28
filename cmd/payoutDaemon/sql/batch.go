@@ -3,7 +3,7 @@ package sql
 import (
 	"context"
 	"errors"
-	core "github.com/Snipa22/core-go-lib/milieu"
+	core "github.com/Jagtech-Services/core-go-lib/milieu"
 )
 
 // Manage all Batch related SQL requests, no logic, just query and structs

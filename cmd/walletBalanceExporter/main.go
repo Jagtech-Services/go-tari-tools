@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/Snipa22/go-tari-lib/v3/walletGRPC"
+	"github.com/Jagtech-Services/go-tari-lib/v3/walletGRPC"
 	"net/http"
 )
 

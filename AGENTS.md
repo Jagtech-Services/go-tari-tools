@@ -9,7 +9,7 @@ Instructions for AI coding agents (OpenCode, Claude Code, or any `agents.md`-com
 ## Project
 
 - **What this repo is:** Aggregation point for extracted Tari tooling/binaries — starting with the tool code being split out of `go-tari-faucet` (which currently co-locates payout-powering library code with faucet tool code). More tools will land here as they're extracted from other `go-tari-*` repos during the standardization pass.
-- **Module path:** `github.com/Snipa22/go-tari-tools`
+- **Module path:** `github.com/Jagtech-Services/go-tari-tools`
 - **Depends on:** `go-tari-lib` (helpers), `go-tari-grpc-lib` (GRPC wrapper), `core-go-lib` (shared utilities)
 - **Versioning note:** this repo aggregates multiple independent tools/binaries under one repo — it uses release-please's **monorepo mode** (per-path versioning via `release-please-config.json` + `.release-please-manifest.json`), not `release-type: simple`. Add a new path entry to both files when a new tool subdirectory is added.
 

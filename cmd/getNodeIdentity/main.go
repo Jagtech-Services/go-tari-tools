@@ -3,9 +3,9 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/Snipa22/core-go-lib/helpers"
-	core "github.com/Snipa22/core-go-lib/milieu"
-	"github.com/Snipa22/go-tari-lib/v3/nodeGRPC"
+	"github.com/Jagtech-Services/core-go-lib/helpers"
+	core "github.com/Jagtech-Services/core-go-lib/milieu"
+	"github.com/Jagtech-Services/go-tari-lib/v3/nodeGRPC"
 )
 
 func main() {

@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	core "github.com/Snipa22/core-go-lib/milieu"
+	core "github.com/Jagtech-Services/core-go-lib/milieu"
 )
 
 // defaultTestDSN is a generic local-Postgres guess used only when TEST_DATABASE_URL isn't set.

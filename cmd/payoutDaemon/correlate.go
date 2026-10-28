@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/Snipa22/go-tari-grpc-lib/v3/tari_generated"
+	"github.com/Jagtech-Services/go-tari-grpc-lib/v3/tari_generated"
 )
 
 // CorrelatedResult pairs one TransferResult with the exact PaymentRecipient (from the same

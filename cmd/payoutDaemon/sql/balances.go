@@ -3,7 +3,7 @@ package sql
 import (
 	"context"
 	"errors"
-	core "github.com/Snipa22/core-go-lib/milieu"
+	core "github.com/Jagtech-Services/core-go-lib/milieu"
 	"github.com/jackc/pgx/v4"
 	"time"
 )

@@ -4,8 +4,8 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/Snipa22/go-tari-grpc-lib/v3/tari_generated"
-	"github.com/Snipa22/go-tari-lib/v3/address"
+	"github.com/Jagtech-Services/go-tari-grpc-lib/v3/tari_generated"
+	"github.com/Jagtech-Services/go-tari-lib/v3/address"
 )
 
 // Two well-formed base58 Tari addresses (lifted from go-tari-lib's own address_test.go fixtures)

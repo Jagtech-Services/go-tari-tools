@@ -3,7 +3,7 @@ package main
 import (
 	"testing"
 
-	"github.com/Snipa22/go-tari-grpc-lib/v3/tari_generated"
+	"github.com/Jagtech-Services/go-tari-grpc-lib/v3/tari_generated"
 )
 
 func mkTransferResult(addr string, txID uint64, success bool) *tari_generated.TransferResult {

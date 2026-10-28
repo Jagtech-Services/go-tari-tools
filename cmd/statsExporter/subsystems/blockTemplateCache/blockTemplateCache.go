@@ -2,9 +2,9 @@ package blockTemplateCache
 
 import (
 	"encoding/binary"
-	"github.com/Snipa22/core-go-lib/milieu"
-	"github.com/Snipa22/go-tari-grpc-lib/v3/tari_generated"
-	"github.com/Snipa22/go-tari-lib/v3/nodeGRPC"
+	"github.com/Jagtech-Services/core-go-lib/milieu"
+	"github.com/Jagtech-Services/go-tari-grpc-lib/v3/tari_generated"
+	"github.com/Jagtech-Services/go-tari-lib/v3/nodeGRPC"
 	"math/rand"
 	"sync"
 )

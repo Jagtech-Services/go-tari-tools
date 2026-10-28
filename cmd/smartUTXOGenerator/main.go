@@ -4,9 +4,9 @@ import (
 	"database/sql"
 	"flag"
 	"fmt"
-	"github.com/Snipa22/core-go-lib/helpers"
-	core "github.com/Snipa22/core-go-lib/milieu"
-	"github.com/Snipa22/go-tari-lib/v3/walletGRPC"
+	"github.com/Jagtech-Services/core-go-lib/helpers"
+	core "github.com/Jagtech-Services/core-go-lib/milieu"
+	"github.com/Jagtech-Services/go-tari-lib/v3/walletGRPC"
 	_ "github.com/mattn/go-sqlite3"
 	"github.com/robfig/cron/v3"
 )

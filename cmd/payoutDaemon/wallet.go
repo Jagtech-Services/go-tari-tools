@@ -3,8 +3,8 @@ package main
 import (
 	"context"
 
-	"github.com/Snipa22/go-tari-grpc-lib/v3/tari_generated"
-	"github.com/Snipa22/go-tari-lib/v3/walletGRPC"
+	"github.com/Jagtech-Services/go-tari-grpc-lib/v3/tari_generated"
+	"github.com/Jagtech-Services/go-tari-lib/v3/walletGRPC"
 )
 
 // WalletSender is the narrow GRPC surface the payout-sending path depends on. It mirrors
