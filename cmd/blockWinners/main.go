@@ -7,8 +7,8 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/Snipa22/go-tari-grpc-lib/v3/tari_generated"
-	"github.com/Snipa22/go-tari-lib/v3/nodeGRPC"
+	"github.com/Jagtech-Services/go-tari-grpc-lib/v3/tari_generated"
+	"github.com/Jagtech-Services/go-tari-lib/v3/nodeGRPC"
 )
 
 func makeRange(min uint64, max uint64) []uint64 {

@@ -2,8 +2,8 @@ package sql
 
 import (
 	"context"
-	core "github.com/Snipa22/core-go-lib/milieu"
-	"github.com/Snipa22/go-tari-grpc-lib/v3/tari_generated"
+	core "github.com/Jagtech-Services/core-go-lib/milieu"
+	"github.com/Jagtech-Services/go-tari-grpc-lib/v3/tari_generated"
 	"time"
 )
 

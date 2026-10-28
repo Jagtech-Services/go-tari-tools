@@ -1,17 +1,18 @@
-module github.com/Snipa22/go-tari-tools
+module github.com/Jagtech-Services/go-tari-tools
 
 go 1.24.0
 
 toolchain go1.24.4
 
 require (
-	github.com/Snipa22/core-go-lib v1.2.0
-	github.com/Snipa22/go-tari-grpc-lib/v3 v3.2.1-0.20260816155812-abc39e19311d
-	github.com/Snipa22/go-tari-lib/v3 v3.0.1
+	github.com/Jagtech-Services/core-go-lib v1.3.0
+	github.com/Jagtech-Services/go-tari-grpc-lib/v3 v3.5.0
+	github.com/Jagtech-Services/go-tari-lib/v3 v3.1.0
 	github.com/coreos/go-systemd/v22 v22.5.0
 	github.com/gin-gonic/gin v1.10.1
 	github.com/jackc/pgx/v4 v4.18.3
 	github.com/mattn/go-sqlite3 v1.14.28
+	github.com/redis/go-redis/v9 v9.8.0
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/sirupsen/logrus v1.9.3
 )
@@ -49,7 +50,6 @@ require (
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/mr-tron/base58 v1.3.0 // indirect
 	github.com/pelletier/go-toml/v2 v2.2.2 // indirect
-	github.com/redis/go-redis/v9 v9.8.0 // indirect
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
 	github.com/ugorji/go/codec v1.2.12 // indirect
 	golang.org/x/arch v0.8.0 // indirect
